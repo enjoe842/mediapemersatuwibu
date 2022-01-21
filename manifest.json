@@ -1,61 +1,38 @@
 {
   "name": "mediapemersatuwibu.my.id",
-  "short_name": "Media Pemersatu Wibu",
+  "short_name": "MediaPemersatuWibu",
+  "start_url": "https://www.mediapemersatuwibu.my.id/",
   "display": "standalone",
-  "prefer_related_applications": false,
   "background_color": "#fff",
   "theme_color": "#ffa9bb",
   "description": "Download Anime Hentai Batch Subtitle Indonesia",
-  "lang": "id",
-  "icons": [
-    {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEja18qtU4zYZjQjVoS3FJZCcwuKwmSgCFWkJA-_REBBLdcs8wnMCa6cIznHO2eNcphSZvKM7euDfVBR8kfITvFL5l_mekHYi1gH4G4O0wEqqw5phJ0jt6qsEIQgT7hgxtH817s6ffgESFMQQh7U4pnPClo6V40DnPS5yQP5TL94vCzL-zSzm1WDuulwyw=s36",
-      "sizes": "36x36",
-      "type": "image/png",
-      "density": "0.75",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEja18qtU4zYZjQjVoS3FJZCcwuKwmSgCFWkJA-_REBBLdcs8wnMCa6cIznHO2eNcphSZvKM7euDfVBR8kfITvFL5l_mekHYi1gH4G4O0wEqqw5phJ0jt6qsEIQgT7hgxtH817s6ffgESFMQQh7U4pnPClo6V40DnPS5yQP5TL94vCzL-zSzm1WDuulwyw=s48",
-      "sizes": "48x48",
-      "type": "image/png",
-      "density": "1.0",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEja18qtU4zYZjQjVoS3FJZCcwuKwmSgCFWkJA-_REBBLdcs8wnMCa6cIznHO2eNcphSZvKM7euDfVBR8kfITvFL5l_mekHYi1gH4G4O0wEqqw5phJ0jt6qsEIQgT7hgxtH817s6ffgESFMQQh7U4pnPClo6V40DnPS5yQP5TL94vCzL-zSzm1WDuulwyw=s72",
-      "sizes": "72x72",
-      "type": "image/jpg",
-      "density": "1.5",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEja18qtU4zYZjQjVoS3FJZCcwuKwmSgCFWkJA-_REBBLdcs8wnMCa6cIznHO2eNcphSZvKM7euDfVBR8kfITvFL5l_mekHYi1gH4G4O0wEqqw5phJ0jt6qsEIQgT7hgxtH817s6ffgESFMQQh7U4pnPClo6V40DnPS5yQP5TL94vCzL-zSzm1WDuulwyw=s92",
-      "sizes": "96x96",
-      "type": "image/jpg",
-      "density": "2.0",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEja18qtU4zYZjQjVoS3FJZCcwuKwmSgCFWkJA-_REBBLdcs8wnMCa6cIznHO2eNcphSZvKM7euDfVBR8kfITvFL5l_mekHYi1gH4G4O0wEqqw5phJ0jt6qsEIQgT7hgxtH817s6ffgESFMQQh7U4pnPClo6V40DnPS5yQP5TL94vCzL-zSzm1WDuulwyw=s144",
-      "sizes": "144x144",
-      "type": "image/jpg",
-      "density": "3.0",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEja18qtU4zYZjQjVoS3FJZCcwuKwmSgCFWkJA-_REBBLdcs8wnMCa6cIznHO2eNcphSZvKM7euDfVBR8kfITvFL5l_mekHYi1gH4G4O0wEqqw5phJ0jt6qsEIQgT7hgxtH817s6ffgESFMQQh7U4pnPClo6V40DnPS5yQP5TL94vCzL-zSzm1WDuulwyw=s192",
-      "sizes": "192x192",
-      "type": "image/jpg",
-      "density": "4.0",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEja18qtU4zYZjQjVoS3FJZCcwuKwmSgCFWkJA-_REBBLdcs8wnMCa6cIznHO2eNcphSZvKM7euDfVBR8kfITvFL5l_mekHYi1gH4G4O0wEqqw5phJ0jt6qsEIQgT7hgxtH817s6ffgESFMQQh7U4pnPClo6V40DnPS5yQP5TL94vCzL-zSzm1WDuulwyw=s512",
-      "sizes": "512x512",
-      "type": "image/jpg",
-      "density": "4.0",
-      "purpose": "any maskable"
-    }
-  ]
-}
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiaDcjX8Epj9fxuKQh9gZHLOlMHNV2RavJk98iUX-h-hxLYlqJJ5qYTeduyEOk0k2Xz4MHE-92HamuVyqAKBjxb_1-WjPntZKyDzz-HHqJHF6QQ_Wp8POsbdz2wyW2CqtvXc6slXQKcHhXbrIsnudSwtTL2NgVvp-wsgRIvlTgfXiUbt4e0EN4N16Yqg=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiaDcjX8Epj9fxuKQh9gZHLOlMHNV2RavJk98iUX-h-hxLYlqJJ5qYTeduyEOk0k2Xz4MHE-92HamuVyqAKBjxb_1-WjPntZKyDzz-HHqJHF6QQ_Wp8POsbdz2wyW2CqtvXc6slXQKcHhXbrIsnudSwtTL2NgVvp-wsgRIvlTgfXiUbt4e0EN4N16Yqg=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiaDcjX8Epj9fxuKQh9gZHLOlMHNV2RavJk98iUX-h-hxLYlqJJ5qYTeduyEOk0k2Xz4MHE-92HamuVyqAKBjxb_1-WjPntZKyDzz-HHqJHF6QQ_Wp8POsbdz2wyW2CqtvXc6slXQKcHhXbrIsnudSwtTL2NgVvp-wsgRIvlTgfXiUbt4e0EN4N16Yqg=96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiaDcjX8Epj9fxuKQh9gZHLOlMHNV2RavJk98iUX-h-hxLYlqJJ5qYTeduyEOk0k2Xz4MHE-92HamuVyqAKBjxb_1-WjPntZKyDzz-HHqJHF6QQ_Wp8POsbdz2wyW2CqtvXc6slXQKcHhXbrIsnudSwtTL2NgVvp-wsgRIvlTgfXiUbt4e0EN4N16Yqg=144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiaDcjX8Epj9fxuKQh9gZHLOlMHNV2RavJk98iUX-h-hxLYlqJJ5qYTeduyEOk0k2Xz4MHE-92HamuVyqAKBjxb_1-WjPntZKyDzz-HHqJHF6QQ_Wp8POsbdz2wyW2CqtvXc6slXQKcHhXbrIsnudSwtTL2NgVvp-wsgRIvlTgfXiUbt4e0EN4N16Yqg=168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiaDcjX8Epj9fxuKQh9gZHLOlMHNV2RavJk98iUX-h-hxLYlqJJ5qYTeduyEOk0k2Xz4MHE-92HamuVyqAKBjxb_1-WjPntZKyDzz-HHqJHF6QQ_Wp8POsbdz2wyW2CqtvXc6slXQKcHhXbrIsnudSwtTL2NgVvp-wsgRIvlTgfXiUbt4e0EN4N16Yqg=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgiaDcjX8Epj9fxuKQh9gZHLOlMHNV2RavJk98iUX-h-hxLYlqJJ5qYTeduyEOk0k2Xz4MHE-92HamuVyqAKBjxb_1-WjPntZKyDzz-HHqJHF6QQ_Wp8POsbdz2wyW2CqtvXc6slXQKcHhXbrIsnudSwtTL2NgVvp-wsgRIvlTgfXiUbt4e0EN4N16Yqg=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}	
